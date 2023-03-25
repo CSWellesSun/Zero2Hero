@@ -1,4 +1,4 @@
-# Zero2Zero
+# Zero2Hero
 
 ## Lab1
 
